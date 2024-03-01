@@ -1,4 +1,4 @@
-# Poultry-farm-website-using-PHP-and-oracle
+# Poultry farm website using PHP and Oracle
 This project is a web-based project for a poultry farm developed using
 * HTML for website building
 * CSS for it's styling
